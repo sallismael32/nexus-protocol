@@ -1,0 +1,8 @@
+# Nexus Protocol Dependencies
+# Python 3.10+
+
+# No external dependencies required for core functionality
+# Uses only Python standard library
+
+# Optional: for web3 integration
+# web3>=6.0.0
